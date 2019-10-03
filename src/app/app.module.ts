@@ -15,6 +15,7 @@ import { BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { ProfileComponent } from './profile/profile.component';
 import { LogoutComponent } from './logout/logout.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
